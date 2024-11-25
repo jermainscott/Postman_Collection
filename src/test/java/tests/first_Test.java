@@ -17,7 +17,7 @@ import java.io.InputStream;
 import java.util.Properties;
 
 
-public class First_Test{
+public class first_Test{
 
 
     Properties prop = new Properties();
